@@ -7,6 +7,9 @@ class AddTodo {
 
     constructor(private _todosService: TodosService) {
 
+		var a = 'Jebi se';
+
+		
     }
 
     add() {
